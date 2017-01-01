@@ -1,0 +1,72 @@
+header {
+	background-color: #00FFCC;
+	border: 1px black solid;
+	padding: 20px;
+	font-size: 20px;
+}
+
+nav {
+	background-color: #00FFFF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two_column {
+	background-color: #00CCFF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #00CCCC;
+	background-image: url('../images/Walking_Dude.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #F0F0F0;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: #0099FF;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+aside {
+	background-color: #0099CC;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #0066FF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #0066CC;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div {
+	background-color: #0033FF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
